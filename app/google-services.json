@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671305566210",
+    "project_id": "sportz-b04f6",
+    "storage_bucket": "sportz-b04f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671305566210:android:f9c27f31cb1734852f7f1b",
+        "android_client_info": {
+          "package_name": "com.example.spoetz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdV-g-tKy8JhRlZZybWY3mPldCDHCURd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
